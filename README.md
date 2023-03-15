@@ -1,7 +1,6 @@
 <h1 align="center"> Hi! I'm Jonathan and this is my GitHub 😊!</h1>
-<h3 align="center">I love video games, video edition, music, sports and esports.</h3>
 
-<img src="https://64.media.tumblr.com/61b42677879a0be38fb2779459b0f456/tumblr_nzv60uVwxB1uo5tbio1_1280.gifv" alt="gif de fondo">
+<img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="gif de fondo">
 
 <div align="center" style="list-style-type: none">
 
