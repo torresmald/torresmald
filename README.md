@@ -2,7 +2,7 @@
 
 <img src="https://bairesdev.mo.cloudinary.net/blog/2022/01/programming-languages-1.jpg?tx=w_1080,q_auto" alt="gif de fondo">
 
-<div align="center" style="list-style-type: none">
+<div align="center" style="list-style-type: none; display: flex; justify-content: center;">
 
     💻 My knowledge: 
 
